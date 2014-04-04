@@ -12,9 +12,9 @@ SET time_zone = "+00:00";
 
 --
 -- Datenbank: `gsk`
---
+
 -- --------------------------------------------------------
---
+
 -- Tabellenstruktur für Tabelle `etiketten`
 --
 
